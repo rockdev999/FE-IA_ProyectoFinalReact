@@ -1,16 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Asi se ve el Clon corriendo:
+<img width="1125" height="867" alt="image" src="https://github.com/user-attachments/assets/23d1e643-b40e-409e-8c4d-547ad6d13518" />
+<img width="1107" height="884" alt="image" src="https://github.com/user-attachments/assets/18c3166d-f6f9-45e2-80eb-1cf1388d55fc" />
+<img width="538" height="192" alt="image" src="https://github.com/user-attachments/assets/94444e37-f458-4fad-b9ea-2a9d8c33f4e4" />
+<img width="767" height="731" alt="image" src="https://github.com/user-attachments/assets/125641cc-309f-4025-bbbd-6759945315ad" />
+<img width="668" height="400" alt="image" src="https://github.com/user-attachments/assets/94e0d344-648b-4a84-a763-2aa4f0f7807b" />
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
