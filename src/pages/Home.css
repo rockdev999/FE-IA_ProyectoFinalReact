@@ -1,0 +1,26 @@
+.home {
+  background: #15202b;
+}
+
+.home-header {
+  padding: 15px 20px;
+  border-bottom: 1px solid #38444d;
+  position: sticky;
+  top: 60px;
+  background: #15202b;
+  z-index: 10;
+}
+
+.home-header h2 {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.timeline-divider {
+  padding: 10px 20px;
+  background: #1e2732;
+  border-bottom: 1px solid #38444d;
+  text-align: center;
+  color: #8899a6;
+  font-size: 0.9rem;
+}
